@@ -98,11 +98,11 @@ button {
 }
 
 .link-cadastro{
- color: #0095f6;
- font-weight: bold;
- font-size: 14px;
- margin-left: 5px;
- cursor: pointer;
+    color: #0095f6;
+    font-weight: bold;
+    font-size: 14px;
+    margin-left: 5px;
+    cursor: pointer;
 }
 
 .paragrafo-conta{
