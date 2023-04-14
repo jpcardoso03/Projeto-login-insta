@@ -125,3 +125,28 @@ button {
 width: 150px;
 
 }
+
+
+@media screen and (max-width:860px){
+
+body{
+    background-color: #ffffff;
+}
+
+
+.container-imagens{
+    display: none;
+}
+
+.img-celular{
+        display: none;
+    }
+
+.container-form {
+        border: none;
+    }
+
+.container-cadastro{
+    border: none;
+}
+}
